@@ -545,12 +545,12 @@
                     
                     <div class="mb-4">
                         <h5><i class="fas fa-map-marker-alt me-3"></i> Endereço</h5>
-                        <p>Av. Paulista, 1000 - São Paulo/SP</p>
+                        <p>R. Dr. José Peroba, 244 - STIEP, Salvador</p>
                     </div>
                     
                     <div class="mb-4">
                         <h5><i class="fas fa-phone me-3"></i> Telefone</h5>
-                        <p>(11) 1234-5678</p>
+                        <p>(71) 99347-0779</p>
                     </div>
                     
                     <div class="mb-4">
